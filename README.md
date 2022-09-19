@@ -11,12 +11,12 @@
 
 ## 📑 Sumário
 
-- [Descrição](#description)
+- [Sobre](#about)
 - [Tecnologias](#tecs)
 - [Autores](#authors)
-- [Licensa](#license)
+- [Licença](#license)
 
-## 🔖 Descrição <a name = "description"></a>
+## 🔖 Sobre <a name = "about"></a>
 
 Utilizando Algoritmo genético para determinação de pesos para funções heurísticas, que serão utilizadas no algoritmo de busca A\* para solucionar um jogo de 8-Puzzle (3x3) ou 15-Puzzle (4x4).
 
